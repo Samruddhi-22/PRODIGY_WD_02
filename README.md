@@ -14,6 +14,8 @@ Reset: Reset the stopwatch timer to 00:00:00.
 - CSS
 - JavaScript
 
+![Screenshot 2024-05-27 134306](https://github.com/Samruddhi-22/PRODIGY_WD_02/assets/138032737/ad4419df-f921-4d66-807f-0dfbd60617c8)
+
 
 
 
