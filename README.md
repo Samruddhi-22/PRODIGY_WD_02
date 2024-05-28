@@ -2,7 +2,7 @@
 
 This is a simple web-based stopwatch application built using HTML, CSS, and JavaScript. It allows users to start, stop, and reset a stopwatch timer.
 
-##Features
+## Features
 
 Start: Begin the stopwatch timer.
 Stop: Pause the stopwatch timer.
