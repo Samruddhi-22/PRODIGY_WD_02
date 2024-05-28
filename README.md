@@ -5,7 +5,7 @@ This is a simple web-based stopwatch application built using HTML, CSS, and Java
 ## Features
 
 - Start: Begin the stopwatch timer.
- -Stop: Pause the stopwatch timer.
+- Stop: Pause the stopwatch timer.
 - Reset: Reset the stopwatch timer to 00:00:00.
 
 ## Technologies Used
